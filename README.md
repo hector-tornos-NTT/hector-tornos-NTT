@@ -23,7 +23,8 @@ Gracias a Raul Piraces por los badgets.
 ## 🛠️ Certificaciones
 
 ![Openshift Administrator DO280]([http://url/to/img.png](https://images.credly.com/images/b6cf67d4-0533-495b-acfe-9d08bb50bef1/image.png))
-
+![alt text](https://github.com/hector-tornos-NTT/hector-tornos-NTT/blob/main/certifications/do280.png?raw=true)
+https://github.com/hector-tornos-NTT/hector-tornos-NTT/blob/main/certifications/do280.png
 https://www.credly.com/badges/410512c5-24e7-484d-9746-86e1cfa78663/public_url
 
 !JavaScript
