@@ -20,7 +20,9 @@ Gracias a Raul Piraces por los badgets.
 - 📫 Cómo contactarme: **[tu correo electrónico]**
 - ⚡ Dato curioso: **[dato curioso sobre ti]**
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Certificaciones
+
+https://www.credly.com/badges/410512c5-24e7-484d-9746-86e1cfa78663/public_url
 
 !JavaScript
 !Python
