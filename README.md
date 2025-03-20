@@ -1,6 +1,7 @@
 # 👋 ¡Hola! Soy [Tu Nombre]
 
-Gracias a Raul Piraces por los badgets. ##
+Gracias a Raul Piraces por los badgets. 
+##
 [![Linkedin Badge](https://img.shields.io/badge/-Raúl%20Piracés%20Alastuey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ra%C3%BAl-pirac%C3%A9s-alastuey-137569a5/)](https://www.linkedin.com/in/ra%C3%BAl-pirac%C3%A9s-alastuey-137569a5/)
 [![Twitter Badge](https://img.shields.io/badge/-@piraces_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/piraces_)](https://twitter.com/piraces_)
 [![ThePracticalDev Badge](https://img.shields.io/badge/-@piraces-0A0A0A?style=flat-square&labelColor=black&logo=dev.to&link=https://dev.to/piraces/)](https://dev.to/piraces)
