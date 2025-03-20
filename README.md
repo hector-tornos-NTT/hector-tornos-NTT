@@ -1,9 +1,7 @@
 # 👋 ¡Hola! Soy [Tu Nombre]
 
-##
 [![Linkedin Badge](https://img.shields.io/badge/-Hector%20Tornos-blue?style=flat-square&logo=readdotcv&logoColor=white&link=https://www.linkedin.com/in/hectornos/)](https://www.linkedin.com/in/hectornos/)
 
-##
 ¡Bienvenido a mi perfil de GitHub! Soy un apasionado de la tecnología y el desarrollo de software. Aquí encontrarás algunos de mis proyectos y contribuciones.
 
 ## 🚀 Sobre mí
