@@ -22,6 +22,8 @@ Gracias a Raul Piraces por los badgets.
 
 ## 🛠️ Certificaciones
 
+!Credly badge
+
 https://www.credly.com/badges/410512c5-24e7-484d-9746-86e1cfa78663/public_url
 
 !JavaScript
